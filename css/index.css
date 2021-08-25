@@ -1,0 +1,74 @@
+header{
+  background-color: #f8eff5;
+  padding: 10px;
+}
+.conteiner{
+  width: 70rem;
+  margin: auto;
+  background: #628b88b9;
+}
+.conteiner img{
+  width: 100%;
+  
+}
+.titulo{
+  position: absolute;
+  top: 20px;
+  left: 9,8rem;
+  text-align: center;
+  background-image: linear-gradient( rgba(255, 0, 0, 0.466), rgba(245, 111, 111, 0.411));
+  padding: 30px 46rem 30px 0;
+  font-size: 53px;
+  margin: 0 0 2rem;
+  clear: left;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px rgba(10, 0, 0, 0.733);
+  
+}
+.principal{
+  margin-top: 10rem;
+  text-align: center;
+  font-size: 25px;
+  text-shadow: 2px 2px 5px rgba(10, 0, 0, 0.733);
+}
+.historia1{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+.home{
+  position:absolute;
+  top: 40px;
+  right: 10rem;
+  
+}
+
+nav ul li{
+  display: inline;
+  margin: 0 0 0 15px;
+  font-size: 30px;
+}
+nav li a{
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  transition: 400ms;
+}
+div img{
+  margin-top: 50px;
+  width: 345px;
+  margin: 100px 25px 100px 60px;
+  
+}
+.video{
+margin: 100px 40px 100px 60px;
+}
+
+footer {
+  text-align: center;
+  background: #416157;
+  padding: 10px 0;
+  width: 100%;
+}

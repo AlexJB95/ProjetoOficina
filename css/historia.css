@@ -1,0 +1,50 @@
+header{
+    background-color: rgb(252, 246, 246);
+    padding: 10px;  
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav li a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 400ms;
+}
+
+nav a:hover{
+    color:blue;
+    transition: 400ms;
+    text-decoration: none;
+}
+
+.historia2{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10rem;
+}
+.equipe{
+    margin: 100px 0 0 25rem;
+}
+
+.home{
+    position:absolute;
+    top: 40px;
+    right: 10rem;
+    font-size: 60px;
+    background: #6b9e8e;
+    padding: 20px 100px;
+    
+}
+
+footer {
+    text-align: center;
+    background: #416157;
+    padding: 10px 0;
+    width: 100%;
+  }
